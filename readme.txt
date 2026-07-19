@@ -3,9 +3,9 @@
 Contributors:      coderalamin
 Tags:              fatal-error, database-error, recovery, seo, white-screen-of-death
 Requires at least: 5.9
-Tested up to:      6.9
+Tested up to:      7.0.2
 Requires PHP:      7.4
-Stable tag:        1.0.0
+Stable tag:        1.0.1
 License:           GPL-2.0-or-later
 License URI:       https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -125,6 +125,9 @@ Yes. FatalFlow uses MU-plugin and drop-in mechanisms that load before most of Wo
 ---
 
 == Changelog ==
+
+= 1.0.1 – 2026-07-19 =
+* Version compatibility
 
 = 1.0.0 – 2026-05-08 =
 * Initial public release
